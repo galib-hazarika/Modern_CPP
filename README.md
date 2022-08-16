@@ -32,5 +32,12 @@
   - short wchar_t 2 byte
   - int long float 4 byte
   - long long, double, long double 8 byte
+  
+  ## Console I/O
+  
+  - CPP provide two class for i/p and o/p
+    - std:: basic_ostream & std::basic_istream
+    - std::cout //Object of ostream and std::cin //object of istream class
+    - <<insertion opearator and >> extraction operator
 
 
